@@ -1,2 +1,2 @@
 # Simple-CMS
-Thsi is Simple Content Manager System App.
+This is Simple Content Manager System App.
